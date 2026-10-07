@@ -18,4 +18,4 @@ modules:
     sources:
       - type: git
         url: https://codeberg.org/markwyner/ratio-for-linux.git
-        commit: 901d7892d53048a43e79f2c215059d7dee72b5ea
+        commit: 4040b1323fc1e9d1bb4c0e59356976cea372d23c
